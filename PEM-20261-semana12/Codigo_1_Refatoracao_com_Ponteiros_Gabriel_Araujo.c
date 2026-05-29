@@ -5,7 +5,7 @@ Dscplna: PEM - Programacao Estruturada e Modular
 
 Professor: Prof. Verssmo
 Aluno: Gabrlel Araujo da Slva
-R.A.: SEU_RA_AQUI
+R.A.: 2040482522037
 
 Atvdade:
 Refatoracao, Recursvdade vs. Iteracao
